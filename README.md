@@ -1,2 +1,4 @@
 # StudyBreakManagement
 SwiftUIでとXcodeで作成したアプリ
+休憩時間を固定して活動時間を記録して管理するアプリ
+私の初アプリ
